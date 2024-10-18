@@ -42,3 +42,12 @@ text-align: center;
     justify-content: center;
 
  }
+
+ footer a {
+    margin: 20px;
+    text-align: center;
+ }
+
+ footer b {
+    margin-top: 2px;
+ }
